@@ -104,3 +104,6 @@ live_config_reload: true
 # Directory the shell is started in. If this is unset, or `None`, the working
 # directory of the parent process will be used.
 working_directory: /Users/niza/Development/uniit/
+key_bindings:
+  - { key: Q, mods: Command, action: None }
+  - { key: W, mods: Command, action: None }
