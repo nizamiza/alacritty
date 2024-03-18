@@ -1,4 +1,4 @@
-# Alacritty config
+# Alacritty Config
 
 This my personal config for the [Alacritty terminal emulator](https://github.com/alacritty/alacritty).
 
@@ -8,19 +8,18 @@ This my personal config for the [Alacritty terminal emulator](https://github.com
 
 ## How to use?
 
-First of all, you need to have the Alacritty installed. Follow instructions on
-its official repository page.
+Make sure to have the Alacritty installed on your system. Follow instructions on its official repository page.
 
-Then, navigate to your `.config` directory:
+Then, backup your current Alacritty configuration if you have one:
 
 ```bash
-cd ~/.config
+mv ~/.config/alacritty ~/.config/alacritty.bak
 ```
 
 And finally, clone this repository:
 
 ```bash
-git clone https://github.com/nizamiza/alacritty.git
+git clone https://github.com/nizamiza/alacritty.git ~/.config/alacritty
 ```
 
-Make sure to restart the Alacritty.
+Make sure to restart Alacritty!
