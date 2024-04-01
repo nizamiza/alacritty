@@ -8,7 +8,8 @@ This my personal config for the [Alacritty terminal emulator](https://github.com
 
 ## How to use?
 
-Make sure to have the Alacritty installed on your system. Follow instructions on its official repository page.
+Make sure to have the Alacritty installed on your system. Follow instructions on
+its official repository page.
 
 Then, backup your current Alacritty configuration if you have one:
 
@@ -23,3 +24,7 @@ git clone https://github.com/nizamiza/alacritty.git ~/.config/alacritty
 ```
 
 Make sure to restart Alacritty!
+
+## Resources
+
+-   [Alacritty](https://github.com/alacritty/alacritty)
