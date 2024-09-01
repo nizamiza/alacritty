@@ -1,10 +1,13 @@
+import = ["~/.config/alacritty/themes/kanagawa_dragon.toml"]
+
 [window]
 dimensions = { columns = 175, lines = 60 }
 decorations = "transparent"
 opacity = 0.92
 blur = true
 padding = { x = 8, y = 32 }
+option_as_alt = "Both"
 
 [font]
-normal = { family = "JetBrains Mono", style = "Regular" }
-size = 15
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+size = 16
