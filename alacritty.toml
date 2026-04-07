@@ -1,3 +1,5 @@
+[terminal]
+shell = "zellij"
 
 [window]
 dimensions = { columns = 175, lines = 60 }
@@ -11,4 +13,4 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 size = 12
 
 [general]
-import = ["~/.config/alacritty/themes/kanagawa_dragon.toml"]
+import = ["~/.config/alacritty/themes/mariana.toml"]
