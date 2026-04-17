@@ -5,7 +5,7 @@
 primary.background = "#072626"
 primary.foreground = "#FFFFFF"
 
-normal.black   = "#304040"
+normal.black   = "#506b6b"
 normal.red     = "#bd3e33"
 normal.green   = "#31b908"
 normal.yellow  = "#c29008"
