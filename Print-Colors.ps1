@@ -1,0 +1,8 @@
+Write-Host "|039| $([char]27)[39mDefault $([char]27)[0m  |049| $([char]27)[49mDefault $([char]27)[0m  |037| $([char]27)[37mLight gray $([char]27)[0m     |047| $([char]27)[47mLight gray $([char]27)[0m"
+Write-Host "|030| $([char]27)[30mBlack $([char]27)[0m    |040| $([char]27)[40mBlack $([char]27)[0m    |090| $([char]27)[90mDark gray $([char]27)[0m      |100| $([char]27)[100mDark gray $([char]27)[0m"
+Write-Host "|031| $([char]27)[31mRed $([char]27)[0m      |041| $([char]27)[41mRed $([char]27)[0m      |091| $([char]27)[91mLight red $([char]27)[0m      |101| $([char]27)[101mLight red $([char]27)[0m"
+Write-Host "|032| $([char]27)[32mGreen $([char]27)[0m    |042| $([char]27)[42mGreen $([char]27)[0m    |092| $([char]27)[92mLight green $([char]27)[0m    |102| $([char]27)[102mLight green $([char]27)[0m"
+Write-Host "|033| $([char]27)[33mYellow $([char]27)[0m   |043| $([char]27)[43mYellow $([char]27)[0m   |093| $([char]27)[93mLight yellow $([char]27)[0m   |103| $([char]27)[103mLight yellow $([char]27)[0m"
+Write-Host "|034| $([char]27)[34mBlue $([char]27)[0m     |044| $([char]27)[44mBlue $([char]27)[0m     |094| $([char]27)[94mLight blue $([char]27)[0m     |104| $([char]27)[104mLight blue $([char]27)[0m"
+Write-Host "|035| $([char]27)[35mMagenta $([char]27)[0m  |045| $([char]27)[45mMagenta $([char]27)[0m  |095| $([char]27)[95mLight magenta $([char]27)[0m  |105| $([char]27)[105mLight magenta $([char]27)[0m"
+Write-Host "|036| $([char]27)[36mCyan $([char]27)[0m     |046| $([char]27)[46mCyan $([char]27)[0m     |096| $([char]27)[96mLight cyan $([char]27)[0m     |106| $([char]27)[106mLight cyan $([char]27)[0m"

@@ -1,0 +1,32 @@
+# JBLowtorch: Vibrant, High-Contrast ANSI Colors
+
+[colors]
+# Default colors
+primary.background = "#072626"
+primary.foreground = "#FFFFFF"
+
+normal.black   = "#304040"
+normal.red     = "#bd3e33"
+normal.green   = "#31b908"
+normal.yellow  = "#c29008"
+normal.blue    = "#0087b4"
+normal.magenta = "#bb0897"
+normal.cyan    = "#04aaa2"
+normal.white   = "#83a0a0"
+
+bright.black   = "#83a0a0"
+bright.red     = "#d14747"
+bright.green   = "#4ecf5d"
+bright.yellow  = "#cfc24a"
+bright.blue    = "#4eb1ca"
+bright.magenta = "#cf59c9"
+bright.cyan    = "#4fcec3"
+bright.white   = "#f0faf9"
+
+# Cursor colors
+cursor.text = "#072626"
+cursor.cursor = "#90EE90"
+
+# Selection colors
+selection.foreground = "#222627"
+selection.background = "#1f54e6"
