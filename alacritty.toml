@@ -2,7 +2,7 @@
 shell = "zellij"
 
 [window]
-dimensions = { columns = 175, lines = 60 }
+dimensions = { columns = 140, lines = 30 }
 decorations = "transparent"
 blur = true
 padding = { x = 4, y = 0 }
