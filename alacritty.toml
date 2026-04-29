@@ -14,3 +14,8 @@ size = 12
 
 [general]
 import = ["themes/jblowtorch.toml"]
+
+[[keyboard.bindings]]
+key = "Return"
+mods = "Shift"
+chars = "\u001B\r"
