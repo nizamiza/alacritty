@@ -1,5 +1,5 @@
 [terminal]
-shell = "zellij"
+shell = { program = "pwsh", args = ["-NoExit", "-Command", "Set-Location ~; zellij"] }
 
 [window]
 dimensions = { columns = 140, lines = 30 }
